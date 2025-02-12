@@ -1,8 +1,11 @@
 # Badges
 ## Descrição
-Exemplos de badges 
+Exemplos de etiquetas 
 
-![Tecnologias](https://img.shields.io/badge/Tecnologias-C4%20Model-blue)
+> Tecnologia: Markdown
+
+![Tecnologias](https://img.shields.io/badge/Tecnologia-Markdown-blue)
+
 > Ide do Visual Studio Code
 
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)
