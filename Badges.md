@@ -1,6 +1,6 @@
 # Badges
 ## Descrição
-Exemplos de etiquetas 
+Exemplos de etiquetas (Badges)
 
 > Fiotec
 
@@ -25,3 +25,7 @@ Exemplos de etiquetas
 > RabbitMQ
 
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-4.0.6-FF6600)](https://www.rabbitmq.com/)
+
+> Repo Size
+
+![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=Repo%20Size&color=brown&style=flat&suffix=KB)
