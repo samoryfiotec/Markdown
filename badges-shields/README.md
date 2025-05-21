@@ -30,7 +30,7 @@ Exemplos de etiquetas (Badges)
 
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-4.0.6-FF6600)](https://www.rabbitmq.com/)
 
-> Repo Size
+> Repo Size (precisa estar public para aparecer)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=Repo%20Size&color=brown&style=flat&suffix=KB)
 
