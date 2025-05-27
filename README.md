@@ -15,7 +15,7 @@ Em resumo, Markdown é uma ferramenta poderosa e prática para documentar projet
 
 ## Badges
 Shields.io cria badges dinâmicos para destacar métricas.
-[Leia aqui](badges-shields\Badges.md)
+[Leia aqui](badges-shields/Badges.md)
 
 ## Licença
 [MIT License](LICENSE) 
