@@ -1,6 +1,12 @@
-# Badges
+# Badges - Shields.io
+
+[Shields.io](https://shields.io/)
+
 ## Descrição
-Exemplos de etiquetas (Badges)
+
+Shields.io é um serviço que permite criar badges (etiquetas) personalizados para projetos de software. Esses badges são pequenos ícones que exibem informações dinâmicas, como status de build, cobertura de testes, versão do software, tamanho do repositório, entre outros. Eles são amplamente utilizados em arquivos README de repositórios no GitHub para destacar métricas e informações importantes de forma visualmente atraente. Os badges do Shields.io são altamente configuráveis e podem ser facilmente integrados em qualquer projeto, ajudando a comunicar o estado e a qualidade do projeto de maneira clara e concisa.
+
+## Exemplos de etiquetas (Badges)
 
 > Fiotec
 
