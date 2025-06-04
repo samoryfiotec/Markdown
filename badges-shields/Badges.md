@@ -8,10 +8,6 @@ Shields.io é um serviço que permite criar badges (etiquetas) personalizados pa
 
 ## Exemplos de etiquetas (Badges)
 
-> Fiotec
-
-[![Fiotec](https://img.shields.io/badge/Fundação-Fiotec-skyblue)](https://www.fiotec.fiocruz.br/)
-
 > Tecnologia: Markdown
 
 ![Tecnologias](https://img.shields.io/badge/Tecnologia-Markdown-darkgreen)
