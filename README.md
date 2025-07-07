@@ -16,7 +16,7 @@ Em resumo, Markdown é uma ferramenta poderosa e prática para documentar projet
 
 ## Templates
 
-Veja [aqui](repo-template/Template.md) como editar.
+[Veja aqui](repo-template/Template.md) como editar.
 
 ## Badges
 
