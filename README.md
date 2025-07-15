@@ -6,17 +6,18 @@
 
 Markdown é uma linguagem de marcação leve amplamente utilizada para formatar textos de forma simples e legível. Ela é especialmente útil para documentar projetos no GitHub, pois permite que desenvolvedores criem arquivos README claros e bem estruturados.
 
-Com Markdown, é possível adicionar títulos, listas, links, imagens, trechos de código e muito mais, tudo com uma sintaxe intuitiva e fácil de aprender. Isso facilita a criação de documentação que pode ser rapidamente compreendida por outros desenvolvedores.
+Com ela, é possível adicionar títulos, listas, links, imagens, trechos de código e muito mais, tudo com uma sintaxe intuitiva e fácil de aprender. Isso facilita a criação de documentação que pode ser rapidamente compreendida por outros desenvolvedores.
 
 No GitHub, arquivos README escritos em Markdown são automaticamente renderizados, proporcionando uma visualização agradável diretamente no repositório. Isso ajuda a comunicar informações importantes sobre o projeto, como instruções de instalação, uso, contribuições e licenciamento.
 
-Além disso, o uso de badges (etiquetas), como os fornecidos pelo Shields.io, permite destacar métricas e informações relevantes do projeto, como status de build, cobertura de testes, tamanho do repositório, entre outros.
+Além disso, o uso de badges (distintivos), como os fornecidos pelo [Shields.io](https://shields.io/), permite destacar além das tecnologias utilizadas, métricas e informações relevantes do projeto, como status de build, cobertura de testes, tamanho do repositório, entre outros.
 
 Em resumo, Markdown é uma ferramenta poderosa e prática para documentar projetos no GitHub, melhorando a comunicação e a colaboração entre desenvolvedores.
 
 ## Templates
 
-[Veja aqui](repo-template/Template.md) como editar.
+Como criar os elementos de Markdown para editar seus documentos.
+[Leia aqui](repo-template/Template.md)
 
 ## Badges
 
