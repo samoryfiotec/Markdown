@@ -17,12 +17,12 @@ Em resumo, Markdown é uma ferramenta poderosa e prática para documentar projet
 ## Templates
 
 Como criar os elementos de Markdown para editar seus documentos.
-[Leia aqui](repo-template/Template.md)
+[Leia aqui](repo-template/README.md)
 
 ## Badges
 
 Shields.io cria badges dinâmicos para destacar métricas.
-[Leia aqui](badges-shields/Badges.md)
+[Leia aqui](badges-shields/README.md)
 
 ## Licença
 
