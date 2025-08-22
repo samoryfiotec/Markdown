@@ -1,6 +1,6 @@
 # Markdown - Template
 
-![Tecnologias](https://img.shields.io/badge/Tecnologia-Markdown-darkgreen) ![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=Repo%20Size&color=brown&style=flat&suffix=KB)
+![Tecnologias](https://img.shields.io/badge/Tecnologia-Markdown-darkgreen) ![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=RepoSize&color=brown&style=flat&suffix=KB)
 
 ## Descrição
 
