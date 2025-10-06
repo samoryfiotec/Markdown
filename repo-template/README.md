@@ -36,7 +36,11 @@
 
 ## Imagens
 
-- ![Texto alternativo](URL_da_imagem)
+![Imagem](Designer.png)
+
+```markdown
+![Texto descritivo](URL_da_imagem)
+```
 
 ## Código
 
@@ -48,7 +52,9 @@
 
 - Use três crases:
 
-    ```markdown
+    ```bash
+    git --version
+    git version 2.47.1.windows.2
     ```
 
 ## Citações
