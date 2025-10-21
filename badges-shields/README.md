@@ -10,6 +10,25 @@
 
 ## Exemplos de Badges (distintivos)
 
+### Métricas
+
+> Tamanho do Repositório
+
+![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=RepoSize&color=brown&style=flat&suffix=KB)
+
+```markdown
+![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=RepoSize&color=brown&style=flat&suffix=KB)
+````
+
+> Licença
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+```markdown
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+```
+
+
 ### Principais
 
 > Tecnologia: Markdown
