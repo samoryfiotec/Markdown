@@ -12,24 +12,23 @@
 
 ### Métricas
 
-> Tamanho do Repositório
+> Repo Size (precisa estar public para aparecer)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=RepoSize&color=brown&style=flat&suffix=KB)
+![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=Repo%20Size&color=brown&style=flat&suffix=KB)
 
 ```markdown
-![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=RepoSize&color=brown&style=flat&suffix=KB)
-````
+![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=Repo%20Size&color=brown&style=flat&suffix=KB)
+```
 
 > Licença
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../LICENSE)
 
 ```markdown
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-```
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../LICENSE)```
 
 
-### Principais
+### Tecnologias
 
 > Tecnologia: Markdown
 
@@ -77,14 +76,6 @@
 
 ```markdown
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-4.0.6-FF6600)](https://www.rabbitmq.com/)
-```
-
-> Repo Size (precisa estar public para aparecer)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=Repo%20Size&color=brown&style=flat&suffix=KB)
-
-```markdown
-![GitHub repo size](https://img.shields.io/github/repo-size/samoryfiotec/Markdown?label=Repo%20Size&color=brown&style=flat&suffix=KB)
 ```
 
 > PlantUML
